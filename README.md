@@ -10,5 +10,5 @@ The app as is able to make the following actions with the tickets in the system 
   * list all tickets
 
 ## The possibilities of the system:
-![The example](/images/view.png)
+![The example](/images/example.png)
 
